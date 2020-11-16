@@ -1,0 +1,3 @@
+graft projectc5
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  projectc5/jupy *
